@@ -119,11 +119,16 @@ vertical-align: top;
 }
 
 .consig-info {
-  padding: 0em 0 1em 0;
+  padding: 0em 0 0em 0;
 }
 
 .consig-label {  font-size: 19px;
   color: $grey-1;
+}
+.status-label {  font-size: 19px;
+  background: $grey-1;
+  color: white;
+  padding: 0 0.3em 0 0.3em;
 }
 
 .controls {
