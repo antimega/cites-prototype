@@ -115,11 +115,15 @@ vertical-align: top;
 .consignment {
   margin: 2em 0 2em 0;
   line-height: 0.5;
-  border-bottom: 3px solid $grey-3;
+  border-bottom: 2px solid $grey-3;
 }
 
-.stronger {  font-size: 19px;
-  font-weight: 700;
+.consig-info {
+  padding: 0em 0 1em 0;
+}
+
+.consig-label {  font-size: 19px;
+  color: $grey-1;
 }
 
 .controls {
